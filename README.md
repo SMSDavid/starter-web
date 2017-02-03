@@ -15,3 +15,6 @@ this is purpose section
 this is for deployment.
 
 ## How To Contribute
+
+### Copyright
+2017 Git.Training
