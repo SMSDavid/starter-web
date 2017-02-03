@@ -15,6 +15,7 @@ this is purpose section
 this is for deployment.
 
 ## How To Contribute
+Test for review.
 
 ### Copyright
 2014 Git.Training
